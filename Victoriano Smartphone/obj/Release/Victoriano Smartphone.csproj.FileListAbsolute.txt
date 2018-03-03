@@ -1,0 +1,33 @@
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\bin\Release\Victoriano Smartphone.exe.config
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\bin\Release\Victoriano Smartphone.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\bin\Release\Victoriano Smartphone.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\bin\Release\EntityFramework.dll
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\bin\Release\System.Data.SQLite.dll
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\bin\Release\EntityFramework.xml
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\bin\Release\System.Data.SQLite.xml
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\obj\Release\Victoriano Smartphone.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.Buscar_Producto.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.BuscarCliente.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.cliente.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.ConsultaCliente.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.ConsultaProducto.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.ConsultaSuplidores.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.Contarmoneda.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.facturar.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.ConsultarFacturas.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.producto.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.frmmain.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.Registrar.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.suplidores.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\obj\Release\Victoriano Smartphone.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\obj\Release\Victoriano Smartphone.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\obj\Release\Victoriano Smartphone.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.EditarFactura.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.TerminarTrabajo.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.Registros.resources
