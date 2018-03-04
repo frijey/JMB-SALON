@@ -40,13 +40,13 @@
         "Entry"
         {
         "MsmKey" = "8:_29D07843BFEFB1208FDF098CF4ED1967"
-        "OwnerKey" = "8:_5C095C0F393F5CF2CF9859CF269641FA"
+        "OwnerKey" = "8:_2DE4018AC42A40DE2358D9A7ECA1CD86"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_29D07843BFEFB1208FDF098CF4ED1967"
-        "OwnerKey" = "8:_2DE4018AC42A40DE2358D9A7ECA1CD86"
+        "OwnerKey" = "8:_5C095C0F393F5CF2CF9859CF269641FA"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -172,37 +172,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_29D07843BFEFB1208FDF098CF4ED1967"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_9722EF7A3FAD44DF93E1F09B83EC3CD1"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_9C1956FD66194F339C0FD520B5F07DC2"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_EE2752597BA44017AC8A8C3A1BDA7BF6"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_19103B4EF7354AF197ED17DB5AC60C2E"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_59BF84E4D25D49DE884043F8D7E86B88"
+        "OwnerKey" = "8:_3E5362E84026485FADA52EEFFB5621F0"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -214,7 +184,31 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_3E5362E84026485FADA52EEFFB5621F0"
+        "OwnerKey" = "8:_EE2752597BA44017AC8A8C3A1BDA7BF6"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_9C1956FD66194F339C0FD520B5F07DC2"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_9722EF7A3FAD44DF93E1F09B83EC3CD1"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_59BF84E4D25D49DE884043F8D7E86B88"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_19103B4EF7354AF197ED17DB5AC60C2E"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -241,6 +235,12 @@
         "OwnerKey" = "8:_5C095C0F393F5CF2CF9859CF269641FA"
         "MsmSig" = "8:_UNDEFINED"
         }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_29D07843BFEFB1208FDF098CF4ED1967"
+        "MsmSig" = "8:_UNDEFINED"
+        }
     }
     "Configurations"
     {
@@ -259,6 +259,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
         "Release"
         {
@@ -275,6 +283,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
     }
     "Deployable"
@@ -773,7 +789,7 @@
         {
             "{3C67513D-01DD-4637-8A68-80971EB9504F}:_063652D9BE1D496AB7266092D95AF76B"
             {
-            "DefaultLocation" = "8:[ProgramFilesFolder][Manufacturer]\\[ProductName]"
+            "DefaultLocation" = "8:[ProgramFiles64Folder][Manufacturer]\\[ProductName]"
             "Name" = "8:#1925"
             "AlwaysCreate" = "11:FALSE"
             "Condition" = "8:"
@@ -843,7 +859,7 @@
         "ARPIconIndex" = "3:0"
         "SearchPath" = "8:"
         "UseSystemSearchPath" = "11:TRUE"
-        "TargetPlatform" = "3:0"
+        "TargetPlatform" = "3:1"
         "PreBuildEvent" = "8:"
         "PostBuildEvent" = "8:"
         "RunPostBuildEvent" = "3:0"

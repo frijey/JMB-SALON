@@ -31,3 +31,37 @@ C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano
 C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.EditarFactura.resources
 C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.TerminarTrabajo.resources
 C:\Users\Dell\Documents\Visual Studio 2017\Projects\Proyecto Final V1\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.Registros.resources
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\bin\Release\Victoriano Smartphone.exe.config
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\bin\Release\Victoriano Smartphone.exe
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\bin\Release\Victoriano Smartphone.pdb
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\bin\Release\EntityFramework.dll
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\bin\Release\EntityFramework.SqlServer.dll
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\bin\Release\System.Data.SQLite.dll
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\bin\Release\System.Data.SQLite.EF6.dll
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\bin\Release\System.Data.SQLite.Linq.dll
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\bin\Release\EntityFramework.xml
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\bin\Release\EntityFramework.SqlServer.xml
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\bin\Release\System.Data.SQLite.xml
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\bin\Release\System.Data.SQLite.dll.config
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Release\Victoriano Smartphone.csprojResolveAssemblyReference.cache
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.Buscar_Producto.resources
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.BuscarCliente.resources
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.TerminarTrabajo.resources
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.cliente.resources
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.ConsultaCliente.resources
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.ConsultaProducto.resources
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.ConsultaSuplidores.resources
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.Contarmoneda.resources
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.EditarFactura.resources
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.facturar.resources
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.ConsultarFacturas.resources
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.producto.resources
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.frmmain.resources
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.Properties.Resources.resources
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.Registrar.resources
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.Registros.resources
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.suplidores.resources
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Release\Victoriano Smartphone.csproj.GenerateResource.Cache
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Release\Victoriano Smartphone.csproj.CoreCompileInputs.cache
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Release\Victoriano Smartphone.exe
+C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Release\Victoriano Smartphone.pdb
