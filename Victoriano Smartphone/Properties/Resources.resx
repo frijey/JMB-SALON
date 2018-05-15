@@ -139,6 +139,9 @@
   <data name="Corner (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Corner (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Corner (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Corner (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Vector Verde" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Vector Verde.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -147,6 +150,9 @@
   </data>
   <data name="add-item-icon-orange-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\add-item-icon-orange-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Women" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Women.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Arrow back" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Arrow back.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -217,17 +223,17 @@
   <data name="logoinfo trans" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\logoinfo trans.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="333944" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\333944.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="checked1600" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\checked1600.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="person_user_customer_man_male_man_boy_people_1687" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\person_user_customer_man_male_man_boy_people_1687.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Corner (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Corner (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="red-arrow-2718071_640" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red-arrow-2718071_640.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="333944" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\333944.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="exit_sign-512" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\exit_sign-512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -247,7 +253,7 @@
   <data name="btnfacturar trans" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\btnfacturar trans.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="red-arrow-2718071_640" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\red-arrow-2718071_640.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

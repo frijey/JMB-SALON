@@ -13,7 +13,7 @@ namespace Victoriano_Smartphone
     public class operacion
     {
         //public static string RutaBD = "C:\\Sistemas\\VS.db";
-        public static string RutaBD = "C:\\Sistemas\\VictorianoSmartphone\\DataBase\\VS.db";
+        public static string RutaBD = "jmbsalon.db";
 
         public string Sqlsinconsulta(string sql)
         {

@@ -27,18 +27,29 @@ namespace Victoriano_Smartphone
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int md1 = 0, md5 = 0, md10 = 0, md20 = 0, md25 = 0, md50 = 0, md100 = 0, md200 = 0, md500 = 0, md1000 = 0, md2000 = 0;
-
-            //estas condiciones son para evitar conversiones implicitas, sin un textbox esta vacio.
-            if (!string.IsNullOrEmpty(tb1.Text))
+            try
             {
-                md1 = Convert.ToInt32(tb1.Text);
 
             }
-            else { }
+            catch
+            {
+                MessageBox.Show("Coloque solamente números en los campos", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            int md1 = 0, md5 = 0, md10 = 0, md20 = 0, md25 = 0, md50 = 0, md100 = 0, md200 = 0, md500 = 0, md1000 = 0, md2000 = 0;
+
+
 
             try
             {
+
+                //estas condiciones son para evitar conversiones implicitas, sin un textbox esta vacio.
+                if (!string.IsNullOrEmpty(tb1.Text))
+                {
+                    md1 = Convert.ToInt32(tb1.Text);
+
+                }
+                else { }
+
                 if (!string.IsNullOrEmpty(tb5.Text))
                 {
                     md5 = 5 * Convert.ToInt32(tb5.Text);
@@ -99,7 +110,7 @@ namespace Victoriano_Smartphone
             catch (Exception)
             {
 
-                MessageBox.Show("Ingrese solo números","Aviso");
+                MessageBox.Show("Ingrese solo números", "Aviso");
             }
 
 

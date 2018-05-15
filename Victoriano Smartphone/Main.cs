@@ -167,11 +167,11 @@ namespace Victoriano_Smartphone
 
         private void facturasToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Función aun no establecida", "Aviso");
-            return;
+            //MessageBox.Show("Función aun no establecida", "Aviso");
+            //return;
 
-            Form f = new EditarFactura();
-            f.ShowDialog();
+            //Form f = new EditarFactura();
+            //f.ShowDialog();
 
         }
 
@@ -195,6 +195,18 @@ namespace Victoriano_Smartphone
         private void pictureBox3_Click(object sender, EventArgs e)
         {
             Form f = new ConsultarFacturas();
+            f.ShowDialog();
+        }
+
+        private void pictureBox4_Click(object sender, EventArgs e)
+        {
+            Form f = new Contarmoneda();
+            f.ShowDialog();
+        }
+
+        private void pictureBox5_Click(object sender, EventArgs e)
+        {
+            Form f = new ConsultaCliente();
             f.ShowDialog();
         }
     }

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ConsultaSuplidores));
             this.btnguardar = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.btmodificar = new System.Windows.Forms.Button();
@@ -158,6 +159,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.pictureBox5);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.MaximumSize = new System.Drawing.Size(771, 499);
             this.MinimizeBox = false;

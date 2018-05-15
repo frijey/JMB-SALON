@@ -65,3 +65,25 @@ C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Release\Victoriano Sm
 C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Release\Victoriano Smartphone.csproj.CoreCompileInputs.cache
 C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Release\Victoriano Smartphone.exe
 C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Release\Victoriano Smartphone.pdb
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Release\Victoriano Smartphone.csprojResolveAssemblyReference.cache
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.Buscar_Producto.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.BuscarCliente.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.TerminarTrabajo.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.cliente.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.ConsultaCliente.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.ConsultaProducto.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.ConsultaSuplidores.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.Contarmoneda.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.EditarFactura.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.facturar.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.ConsultarFacturas.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.producto.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.frmmain.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.Properties.Resources.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.Registrar.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.Registros.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Release\Victoriano_Smartphone.suplidores.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Release\Victoriano Smartphone.csproj.GenerateResource.Cache
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Release\Victoriano Smartphone.csproj.CoreCompileInputs.cache
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Release\Victoriano Smartphone.exe
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Release\Victoriano Smartphone.pdb

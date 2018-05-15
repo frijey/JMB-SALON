@@ -270,3 +270,71 @@ C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Debug\Victoriano Smar
 C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Debug\Victoriano Smartphone.csproj.CoreCompileInputs.cache
 C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Debug\Victoriano Smartphone.exe
 C:\Sistemas\VictorianoSmartphone\Victoriano Smartphone\obj\Debug\Victoriano Smartphone.pdb
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Debug\Victoriano Smartphone.csprojResolveAssemblyReference.cache
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.Buscar_Producto.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.BuscarCliente.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.TerminarTrabajo.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.cliente.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.ConsultaCliente.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.ConsultaProducto.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.ConsultaSuplidores.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.Contarmoneda.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.EditarFactura.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.facturar.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.ConsultarFacturas.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.producto.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.frmmain.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.Properties.Resources.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.Registrar.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.Registros.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.suplidores.resources
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Debug\Victoriano Smartphone.csproj.GenerateResource.Cache
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Debug\Victoriano Smartphone.csproj.CoreCompileInputs.cache
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Debug\Victoriano Smartphone.exe
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\obj\Debug\Victoriano Smartphone.pdb
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\bin\Debug\Victoriano Smartphone.exe.config
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\bin\Debug\Victoriano Smartphone.exe
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\bin\Debug\Victoriano Smartphone.pdb
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\bin\Debug\EntityFramework.dll
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\bin\Debug\System.Data.SQLite.dll
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\bin\Debug\EntityFramework.xml
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\bin\Debug\System.Data.SQLite.xml
+C:\Users\Frijey\Desktop\VictorianoSmartphone Test\Victoriano Smartphone\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\bin\Debug\Victoriano Smartphone.exe.config
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\bin\Debug\Victoriano Smartphone.exe
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\bin\Debug\Victoriano Smartphone.pdb
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\bin\Debug\EntityFramework.dll
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\bin\Debug\System.Data.SQLite.dll
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\bin\Debug\EntityFramework.xml
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\bin\Debug\System.Data.SQLite.xml
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\obj\Debug\Victoriano Smartphone.csprojResolveAssemblyReference.cache
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.Buscar_Producto.resources
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.BuscarCliente.resources
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.TerminarTrabajo.resources
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.cliente.resources
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.ConsultaCliente.resources
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.ConsultaProducto.resources
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.ConsultaSuplidores.resources
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.Contarmoneda.resources
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.EditarFactura.resources
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.facturar.resources
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.ConsultarFacturas.resources
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.producto.resources
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.frmmain.resources
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.Properties.Resources.resources
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.Registrar.resources
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.Registros.resources
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.suplidores.resources
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\obj\Debug\Victoriano Smartphone.csproj.GenerateResource.Cache
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\obj\Debug\Victoriano Smartphone.csproj.CoreCompileInputs.cache
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\obj\Debug\Victoriano Smartphone.exe
+C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\obj\Debug\Victoriano Smartphone.pdb

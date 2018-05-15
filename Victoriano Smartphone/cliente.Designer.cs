@@ -270,10 +270,10 @@
             // pictureBox3
             // 
             this.pictureBox3.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox3.Image = global::Victoriano_Smartphone.Properties.Resources.person_user_customer_man_male_man_boy_people_1687;
-            this.pictureBox3.Location = new System.Drawing.Point(12, 344);
+            this.pictureBox3.Image = global::Victoriano_Smartphone.Properties.Resources.Women;
+            this.pictureBox3.Location = new System.Drawing.Point(22, 353);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(154, 199);
+            this.pictureBox3.Size = new System.Drawing.Size(129, 172);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox3.TabIndex = 34;
             this.pictureBox3.TabStop = false;
