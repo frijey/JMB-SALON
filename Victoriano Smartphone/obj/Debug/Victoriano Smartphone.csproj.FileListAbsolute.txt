@@ -338,3 +338,38 @@ C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\obj\De
 C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\obj\Debug\Victoriano Smartphone.csproj.CoreCompileInputs.cache
 C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\obj\Debug\Victoriano Smartphone.exe
 C:\Users\Frijey\Desktop\Proyectos Visual\JMB Salón\Victoriano Smartphone\obj\Debug\Victoriano Smartphone.pdb
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\bin\Debug\Victoriano Smartphone.exe.config
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\bin\Debug\Victoriano Smartphone.exe
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\bin\Debug\Victoriano Smartphone.pdb
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\bin\Debug\System.Data.SQLite.dll
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\bin\Debug\System.Data.SQLite.xml
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\Victoriano Smartphone.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.Buscar_Producto.resources
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.BuscarCliente.resources
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.TerminarTrabajo.resources
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.cliente.resources
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.ConsultaCliente.resources
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.ConsultaProducto.resources
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.ConsultaSuplidores.resources
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.Contarmoneda.resources
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.EditarFactura.resources
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.facturar.resources
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.ConsultarFacturas.resources
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.producto.resources
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.frmmain.resources
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.Properties.Resources.resources
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.Registrar.resources
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.Registros.resources
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.suplidores.resources
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\Victoriano Smartphone.csproj.GenerateResource.cache
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\Victoriano Smartphone.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\Victoriano Smartphone.csproj.CopyComplete
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\Victoriano Smartphone.exe
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\Victoriano Smartphone.pdb

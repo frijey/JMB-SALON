@@ -1,0 +1,6 @@
+To Do Things
+
+- Cuadre de Caja
+- Imprimir Factura
+- Modificar Factura
+- 
