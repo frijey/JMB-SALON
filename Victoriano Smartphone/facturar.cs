@@ -534,6 +534,8 @@ namespace Victoriano_Smartphone
             tbcliente.Enabled = true;
             credito = false;
             ptbcliente.Enabled = true;
+            tbcliente.Clear();
+            tbidcliente.Clear();
 
             //Variables necesarias
             detalleguardado = false;
