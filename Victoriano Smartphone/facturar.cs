@@ -258,7 +258,7 @@ namespace Victoriano_Smartphone
                 //Para Cambiar de Contado a Crédito y activar el cliente obligatorio
                 chkbcontado.Checked = false;
                 tbcliente.Enabled = false;
-                tbcliente.Text = "";
+                //tbcliente.Text = "";
                 lbidcliente.Visible = true;
                 tbidcliente.Visible = true;
                 btnsearch.Visible = true;
@@ -284,7 +284,7 @@ namespace Victoriano_Smartphone
                 //Para Cambiar de Crédito a Contado y desactivar el cliente obligatorio
                 chkbcredito.Checked = false;
                 tbcliente.Enabled = true;
-                tbcliente.Text = "";
+                //tbcliente.Text = "";
                 lbidcliente.Visible = false;
                 tbidcliente.Visible = false;
                 tbidcliente.Text = "";
@@ -825,6 +825,7 @@ namespace Victoriano_Smartphone
             Form f = new BuscarCliente();
             f.ShowDialog();
             tbcliente.Text = nombrecliente;
+            tbidcliente.Text = idcliente;
 
         }
     }

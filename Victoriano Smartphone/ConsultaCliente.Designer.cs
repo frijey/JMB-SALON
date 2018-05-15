@@ -36,11 +36,9 @@
             this.button1 = new System.Windows.Forms.Button();
             this.btnguardar = new System.Windows.Forms.Button();
             this.btbuscar = new System.Windows.Forms.PictureBox();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.btbuscar)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             this.SuspendLayout();
             // 
@@ -127,22 +125,12 @@
             this.btbuscar.TabStop = false;
             this.btbuscar.Click += new System.EventHandler(this.btbuscar_Click);
             // 
-            // pictureBox3
-            // 
-            this.pictureBox3.Image = global::Victoriano_Smartphone.Properties.Resources.ED_1_Trans;
-            this.pictureBox3.Location = new System.Drawing.Point(409, 63);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(346, 200);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox3.TabIndex = 32;
-            this.pictureBox3.TabStop = false;
-            // 
             // pictureBox5
             // 
-            this.pictureBox5.Image = global::Victoriano_Smartphone.Properties.Resources._2bck_trans2;
-            this.pictureBox5.Location = new System.Drawing.Point(293, 269);
+            this.pictureBox5.Image = global::Victoriano_Smartphone.Properties.Resources.logo;
+            this.pictureBox5.Location = new System.Drawing.Point(398, 146);
             this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(462, 199);
+            this.pictureBox5.Size = new System.Drawing.Size(357, 322);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox5.TabIndex = 33;
             this.pictureBox5.TabStop = false;
@@ -159,7 +147,6 @@
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.tbnombre);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.pictureBox5);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
@@ -171,7 +158,6 @@
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.ConsultaCliente_KeyDown);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.btbuscar)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -185,7 +171,6 @@
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.PictureBox btbuscar;
         private System.Windows.Forms.Button btmodificar;
-        private System.Windows.Forms.PictureBox pictureBox3;
         private System.Windows.Forms.PictureBox pictureBox5;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button btnguardar;

@@ -33,7 +33,6 @@
             this.tbcodigof = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.label2 = new System.Windows.Forms.Label();
             this.dtfechafrom = new System.Windows.Forms.DateTimePicker();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
@@ -50,7 +49,6 @@
             this.button2 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.btbuscar)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1update)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.btbuscar1)).BeginInit();
@@ -89,23 +87,13 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Image = global::Victoriano_Smartphone.Properties.Resources.ED_1_Trans;
-            this.pictureBox3.Location = new System.Drawing.Point(289, 90);
+            this.pictureBox3.Image = global::Victoriano_Smartphone.Properties.Resources.logo;
+            this.pictureBox3.Location = new System.Drawing.Point(372, 190);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(346, 200);
+            this.pictureBox3.Size = new System.Drawing.Size(278, 306);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox3.TabIndex = 42;
             this.pictureBox3.TabStop = false;
-            // 
-            // pictureBox5
-            // 
-            this.pictureBox5.Image = global::Victoriano_Smartphone.Properties.Resources._2bck_trans2;
-            this.pictureBox5.Location = new System.Drawing.Point(173, 296);
-            this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(462, 199);
-            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox5.TabIndex = 43;
-            this.pictureBox5.TabStop = false;
             // 
             // label2
             // 
@@ -272,7 +260,6 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.pictureBox3);
-            this.Controls.Add(this.pictureBox5);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.btbuscar1);
             this.Controls.Add(this.btbuscar);
@@ -287,7 +274,6 @@
             this.Load += new System.EventHandler(this.ConsultarFacturas_Load);
             ((System.ComponentModel.ISupportInitialize)(this.btbuscar)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1update)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.btbuscar1)).EndInit();
@@ -301,7 +287,6 @@
         private System.Windows.Forms.TextBox tbcodigof;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.PictureBox pictureBox3;
-        private System.Windows.Forms.PictureBox pictureBox5;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.DateTimePicker dtfechafrom;
         private System.Windows.Forms.DataGridView dataGridView1;

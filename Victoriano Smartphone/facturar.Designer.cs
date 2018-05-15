@@ -259,7 +259,7 @@
             // 
             this.tbtotal.Font = new System.Drawing.Font("Calisto MT", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tbtotal.ForeColor = System.Drawing.Color.Blue;
-            this.tbtotal.Location = new System.Drawing.Point(593, 284);
+            this.tbtotal.Location = new System.Drawing.Point(569, 284);
             this.tbtotal.Name = "tbtotal";
             this.tbtotal.ReadOnly = true;
             this.tbtotal.Size = new System.Drawing.Size(167, 26);
@@ -273,7 +273,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Tahoma", 14.75F, System.Drawing.FontStyle.Bold);
-            this.label4.Location = new System.Drawing.Point(527, 285);
+            this.label4.Location = new System.Drawing.Point(486, 284);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(60, 24);
             this.label4.TabIndex = 72;
@@ -351,7 +351,7 @@
             // 
             // logoinf
             // 
-            this.logoinf.Image = global::Victoriano_Smartphone.Properties.Resources.New_info_Bar_2;
+            this.logoinf.Image = global::Victoriano_Smartphone.Properties.Resources.Women;
             this.logoinf.Location = new System.Drawing.Point(560, 403);
             this.logoinf.Name = "logoinf";
             this.logoinf.Size = new System.Drawing.Size(167, 50);
@@ -362,7 +362,7 @@
             // 
             // logo
             // 
-            this.logo.Image = global::Victoriano_Smartphone.Properties.Resources.new_VIC;
+            this.logo.Image = global::Victoriano_Smartphone.Properties.Resources.logo;
             this.logo.Location = new System.Drawing.Point(560, 347);
             this.logo.Name = "logo";
             this.logo.Size = new System.Drawing.Size(167, 50);
@@ -410,10 +410,10 @@
             // 
             // pictureBox5
             // 
-            this.pictureBox5.Image = global::Victoriano_Smartphone.Properties.Resources._2bck_trans2;
-            this.pictureBox5.Location = new System.Drawing.Point(319, 274);
+            this.pictureBox5.Image = global::Victoriano_Smartphone.Properties.Resources.logo;
+            this.pictureBox5.Location = new System.Drawing.Point(437, 240);
             this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(462, 199);
+            this.pictureBox5.Size = new System.Drawing.Size(444, 253);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox5.TabIndex = 42;
             this.pictureBox5.TabStop = false;

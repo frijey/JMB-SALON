@@ -373,3 +373,5 @@ C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\V
 C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\Victoriano Smartphone.csproj.CopyComplete
 C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\Victoriano Smartphone.exe
 C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\Victoriano Smartphone.pdb
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.Cuadre.resources
+C:\Users\Dell\Source\Repos\JMBBeautyNailsSalon\Victoriano Smartphone\obj\Debug\Victoriano_Smartphone.Resetear_Facturas.resources

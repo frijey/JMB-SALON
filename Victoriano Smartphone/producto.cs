@@ -211,6 +211,7 @@ namespace Victoriano_Smartphone
 
                 }
             }
+            tbpsuplidor.SelectedIndex = 0;
 
             nuevo = true;
 

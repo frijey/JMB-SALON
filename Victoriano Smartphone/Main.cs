@@ -148,7 +148,8 @@ namespace Victoriano_Smartphone
 
         private void cuadreDiarioToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Función aun no establecida", "Aviso");
+            Form f = new Cuadre();
+            f.ShowDialog();
         }
 
         private void btnDev_Click(object sender, EventArgs e)
@@ -208,6 +209,21 @@ namespace Victoriano_Smartphone
         {
             Form f = new ConsultaCliente();
             f.ShowDialog();
+        }
+
+        private void pictureBox6_Click(object sender, EventArgs e)
+        {
+            Form f = new Cuadre();
+            f.ShowDialog();
+        }
+
+        private void frmmain_KeyUp(object sender, KeyEventArgs e)
+        {
+            if(e.KeyCode == Keys.F7)
+            {
+                Form f = new Resetear_Facturas();
+                f.ShowDialog();
+            }
         }
     }
 }
